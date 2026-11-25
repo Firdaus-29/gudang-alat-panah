@@ -1,0 +1,10 @@
+id_item,nama_barang,tipe,size,warna,stok,kode_pemilik,harga_jual,status
+ITM001,Clicker NIKA carbon,Stok Toko,-,Biru,1,XMael,200000,Tersedia
+ITM002,Panah MUSEN,Stok Toko,1416,Vanes Orange Putih,12,XMael,45000,Tersedia
+ITM003,Panah MUSEN,Stok Toko,1416,Vanes Merah Putih,0,XMael,550000,SOLD
+ITM004,Riser wooden CARTEL,Stok Toko,23",Putih,0,XMael,400000,SOLD
+ITM002,Panah MUSEN,Stok Toko,1416,Vanes Orange Putih,12,XMael,45000,Tersedia
+ITM005,Panah EASTON PROTOUR,Consignment,Spine 420,Mixed,28,DDP21526,8000000,Tersedia
+ITM006,Arrow rest trophy tracker ss pro,Consignment,-,Silver,1,DDP21526,1300000,Tersedia
+ITM007,Arrow Easton Platinum XX75,Consignment,1616,Silver,-1,MP19426,800000,Tersedia
+ITM008,Fisir Avalon Tec X,Consignment,-,Hitam,1,S27426,tidak_valid,Tersedia

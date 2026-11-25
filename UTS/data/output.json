@@ -1,0 +1,89 @@
+{
+    "ringkasan_statistik": {
+        "total_jenis_barang_valid": 6,
+        "total_unit_tersedia": 42,
+        "jumlah_item_sold": 2,
+        "total_nilai_aset_rp": 226040000,
+        "rincian_aset_per_tipe": {
+            "Consignment": 225300000,
+            "Stok Toko": 740000
+        },
+        "daftar_pemilik_unik": [
+            "DDP21526",
+            "XMael"
+        ]
+    },
+    "log_validasi_dan_duplikat": [
+        "Baris 6: ID 'ITM002' kosong atau duplikat (dilewati).",
+        "Baris 9 (ITM007): Stok (-1) atau harga (800000) negatif.",
+        "Baris 10 (ITM008): Format stok/harga bukan angka valid."
+    ],
+    "data_inventaris_bersih": [
+        {
+            "id_item": "ITM001",
+            "nama_barang": "Clicker NIKA carbon",
+            "tipe": "Stok Toko",
+            "size": "-",
+            "warna": "Biru",
+            "stok": 1,
+            "harga_jual": 200000,
+            "kode_pemilik": "XMael",
+            "status": "Tersedia"
+        },
+        {
+            "id_item": "ITM002",
+            "nama_barang": "Panah MUSEN",
+            "tipe": "Stok Toko",
+            "size": "1416",
+            "warna": "Vanes Orange Putih",
+            "stok": 12,
+            "harga_jual": 45000,
+            "kode_pemilik": "XMael",
+            "status": "Tersedia"
+        },
+        {
+            "id_item": "ITM003",
+            "nama_barang": "Panah MUSEN",
+            "tipe": "Stok Toko",
+            "size": "1416",
+            "warna": "Vanes Merah Putih",
+            "stok": 0,
+            "harga_jual": 550000,
+            "kode_pemilik": "XMael",
+            "status": "SOLD"
+        },
+        {
+            "id_item": "ITM004",
+            "nama_barang": "Riser wooden CARTEL",
+            "tipe": "Stok Toko",
+            "size": "23\"",
+            "warna": "Putih",
+            "stok": 0,
+            "harga_jual": 400000,
+            "kode_pemilik": "XMael",
+            "status": "SOLD"
+        },
+        {
+            "id_item": "ITM005",
+            "nama_barang": "Panah EASTON PROTOUR",
+            "tipe": "Consignment",
+            "size": "Spine 420",
+            "warna": "Mixed",
+            "stok": 28,
+            "harga_jual": 8000000,
+            "kode_pemilik": "DDP21526",
+            "status": "Tersedia"
+        },
+        {
+            "id_item": "ITM006",
+            "nama_barang": "Arrow rest trophy tracker ss pro",
+            "tipe": "Consignment",
+            "size": "-",
+            "warna": "Silver",
+            "stok": 1,
+            "harga_jual": 1300000,
+            "kode_pemilik": "DDP21526",
+            "status": "Tersedia"
+        }
+    ]
+}
